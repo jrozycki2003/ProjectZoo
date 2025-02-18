@@ -1,53 +1,53 @@
-# ProjectZoo
+# ProjectZoo  
 
-## Spis treści
-- [Opis projektu](#opis-projektu)
-- [Technologie](#technologie)
-- [Instalacja i uruchomienie](#instalacja-i-uruchomienie)
-- [Funkcjonalności](#funkcjonalności)
-- [Przykłady użycia](#przykłady-użycia)
-- [Status projektu](#status-projektu)
-- [Autor](#autor)
+## Table of Contents  
+- [Project Description](#project-description)  
+- [Technologies](#technologies)  
+- [Installation and Execution](#installation-and-execution)  
+- [Features](#features)  
+- [Usage Examples](#usage-examples)  
+- [Project Status](#project-status)  
+- [Author](#author)  
 
-## Opis projektu
+## Project Description  
 
-**ProjectZoo** to prosty projekt zarządzania zoo napisany w języku C++. Aplikacja umożliwia dodawanie, usuwanie oraz wyświetlanie informacji o zwierzętach znajdujących się w zoo z poziomu Zarządcy.
+**ProjectZoo** is a simple zoo management project written in C++. The menu is in Polish Language. The application allows a Zoo Manager to add, remove, and display information about the animals in the zoo.  
 
-## Technologie
+## Technologies  
 
-Projekt został zrealizowany z wykorzystaniem następujących technologii:
+This project was built using the following technology:  
 
-- **C++**: główny język programowania projektu.
+- **C++**: The main programming language used.  
 
-## Instalacja i uruchomienie
+## Installation and Execution  
 
-Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
+To run the project locally, follow these steps:  
 
-1. **Klonowanie repozytorium**: Sklonuj repozytorium na swój lokalny komputer:
+1. **Clone the repository**: Clone the repository to your local machine:  
    ```bash
    git clone https://github.com/jrozycki2003/ProjectZoo.git
-   ```
+   ```  
 
-## Funkcjonalności
+## Features  
 
-- **Dodawanie zwierząt**: Możliwość dodawania nowych zwierząt do systemu.
-- **Usuwanie zwierząt**: Usuwanie istniejących zwierząt z bazy danych.
-- **Wyświetlanie informacji**: Przeglądanie listy wszystkich zwierząt wraz z ich szczegółowymi informacjami.
+- **Adding Animals**: Ability to add new animals to the system.  
+- **Removing Animals**: Ability to remove existing animals from the database.  
+- **Displaying Information**: View a list of all animals with their detailed information.  
 
-## Przykłady użycia
+## Usage Examples  
 
-1. **Dodawanie nowego zwierzęcia**:
-   - Użytkownik wprowadza dane nowego zwierzęcia, takie jak gatunek, imię, wiek itp.
-2. **Wyświetlanie listy zwierząt**:
-   - Program wyświetla listę wszystkich zwierząt znajdujących się w zoo wraz z ich szczegółami.
+1. **Adding a new animal**:  
+   - The user inputs details such as species, name, age, etc.  
+2. **Displaying the list of animals**:  
+   - The program displays a list of all animals in the zoo along with their details.  
 
-## Status projektu
+## Project Status  
 
-Projekt jest w fazie początkowej. Planowane są następujące usprawnienia:
+The project is in its early stages. The following improvements are planned:  
 
-- Dodanie interfejsu graficznego użytkownika (GUI).
-- Implementacja zaawansowanych funkcji zarządzania, takich jak planowanie karmienia czy monitorowanie zdrowia zwierząt.
+- Adding a graphical user interface (GUI).  
+- Implementing advanced management features, such as feeding schedules and health monitoring.  
 
-## Autor
+## Author  
 
-Projekt został stworzony przez [jrozycki2003](https://github.com/jrozycki2003). Jeśli masz pytania lub sugestie, skontaktuj się ze mną poprzez GitHub. 
+This project was created by [jrozycki2003](https://github.com/jrozycki2003). If you have any questions or suggestions, feel free to contact me via GitHub.
